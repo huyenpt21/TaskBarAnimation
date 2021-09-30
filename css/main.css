@@ -23,7 +23,7 @@ body > div {
 }
 
 .tab-item:hover {
-    background-color: rgba(238, 73, 128, 0.1);
+    background-color: rgba(245, 126, 165, 0.1);
     opacity: 1;
     border-color: rgba(238, 39, 105, 0.2);
 }
